@@ -10,7 +10,7 @@ app.use(cors())
 
 // TODO: Integrate env variables into this connection string builder
 const pool = new Pool({
-  user: 'kbester',
+  user: 'mshongwe',
   host: 'the_db',
   database: 'grads',
   password: 'postgres',
